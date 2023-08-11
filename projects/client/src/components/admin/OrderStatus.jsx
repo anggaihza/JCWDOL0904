@@ -12,7 +12,7 @@ const OrderStatus = ({selectedStatus, handleStatusChange}) => {
         <option value="Waiting For Payment Confirmation">
           Waiting For Payment Confirmation
         </option>
-        <option value="On Proses">On Process</option>
+        <option value="On Process">On Process</option>
         <option value="Shipped">Shipped</option>
         <option value="Order Confirmed">Order Confirmed</option>
         <option value="Canceled">Canceled</option>
